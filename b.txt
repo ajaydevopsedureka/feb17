@@ -2,3 +2,9 @@ learning the concept of conflicts
 
 
 jenkins
+
+jenkins devops tool
+
+it is gui based
+
+
