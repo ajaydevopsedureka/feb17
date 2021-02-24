@@ -2,3 +2,7 @@ learning the concept of conflicts
 
 
 jenkins
+
+jenkins is a integration tool in devops
+
+without it devops cannot be completed
